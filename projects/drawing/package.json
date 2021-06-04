@@ -1,11 +1,33 @@
 {
-  "name": "drawing",
+  "name": "@ngx-canvas/drawing",
   "version": "0.0.1",
+  "private": false,
   "peerDependencies": {
     "@angular/common": "^11.2.14",
     "@angular/core": "^11.2.14"
   },
   "dependencies": {
     "tslib": "^2.0.0"
-  }
+  },
+  "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.14.",
+  "main": "public-api.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngx-canvas/drawing.git"
+  },
+  "keywords": [
+    "drawing",
+    "ngx-canvas",
+    "ngx",
+    "canvas"
+  ],
+  "author": "claytoncc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngx-canvas/drawing/issues"
+  },
+  "homepage": "https://github.com/ngx-canvas/drawing#readme"
 }
